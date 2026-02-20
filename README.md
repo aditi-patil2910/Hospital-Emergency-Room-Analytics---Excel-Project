@@ -1,4 +1,4 @@
-# 🏥 Hospital Emergency Room Analystics - Excel Project
+# 🏥 Hospital Emergency Room Analytics - Excel Project
 
 **📌 Overview**
 
